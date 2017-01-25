@@ -12,3 +12,6 @@
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað? 
 	Electrostatic discharge er stöðurafmagn sem er ekkert annað en rafhleðsla. Þú getur stoppað það með því að vera með Antistatic Mat undir eða við hliðina svo geturðu líka notað Antistatic Wrist Strap svo það fari ekki rafmagn úr þér í tölvuna
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum? 
+	Passa að það passi í kassan og passa að hann gefi frá sér nógu mikið rafmagn.
