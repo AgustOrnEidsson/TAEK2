@@ -31,3 +31,6 @@ verjast því þegar unnið er með tölvubúnað?
 
 8. Hvað eru jaðartæki? 
 	Jaðar tæki eru það sem sér um samskipti þín og tölvunar, þau eru bæði innbyggð (harður diskur, geisladrif og disklingadrif) og ytri(prentari, mús, lyklaborð)
+
+9. Nefndu þrjú dæmi um inntakstæki. 
+	Mýs, myndavélar og lyklaborð
