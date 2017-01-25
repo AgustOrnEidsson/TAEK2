@@ -14,7 +14,7 @@ verjast því þegar unnið er með tölvubúnað?
 	Electrostatic discharge er stöðurafmagn sem er ekkert annað en rafhleðsla. Þú getur stoppað það með því að vera með Antistatic Mat undir eða við hliðina svo geturðu líka notað Antistatic Wrist Strap svo það fari ekki rafmagn úr þér í tölvuna
 
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum? 
-	Passa að það passi í kassan og passa að hann gefi frá sér nógu mikið rafmagn.
+	Passa að það passi í kassan og passa að hann gefi frá sér nógu mikið afl(vött).
 
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir? 
 	1. Finna vandamálið 
