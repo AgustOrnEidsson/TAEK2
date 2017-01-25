@@ -34,3 +34,16 @@ verjast því þegar unnið er með tölvubúnað?
 
 9. Nefndu þrjú dæmi um inntakstæki. 
 	Mýs, myndavélar og lyklaborð
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+Kassi= Elite K350 án aflgjafa m/glugga	9,896
+Örgjörfi= Core i7 7700K 4.2GHz S1151 14nm 6MB	58,995
+Móðurborð= Z170A-G45 Gaming 1151 ATX 4xDDR4, 3x PCIe 3, 6x SATA USB3.1	30,396
+Kæling= CoolerMaster V8 high-end gaming kæling Ver.2	13,496
+Skjákort= STRIX GTX1060 6GB 3 ára ábyrgð gaming 	53,996
+RAM= 16GB 2x8GB 2400MHz CL11 Pro Vengeance rautt	17,995
+Aflgjafi= Aurum Pro 1200W Modular GOLD aflgjafi 	35,996
+SAMTALS												220,770
