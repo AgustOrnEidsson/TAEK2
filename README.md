@@ -35,9 +35,7 @@ verjast því þegar unnið er með tölvubúnað?
 ## 9. Nefndu þrjú dæmi um inntakstæki. 
 	Mýs, myndavélar og lyklaborð
 
-## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-## leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-## fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
 |Íhlutir															  |Verð 	|Staðsetning |
 |---------------------------------------------------------------------|--------:|:----------:|
