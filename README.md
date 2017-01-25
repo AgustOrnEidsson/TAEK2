@@ -28,3 +28,6 @@ verjast því þegar unnið er með tölvubúnað?
 	Munurinn er að closed ended er þar sem svarið er bara já eða nei á meðan open ended er þar sem það er sagt meira en já og nei.
 	Ertu með góða kjælingu?
 	Hver eru specin þín?
+
+8. Hvað eru jaðartæki? 
+	Jaðar tæki eru það sem sér um samskipti þín og tölvunar, þau eru bæði innbyggð (harður diskur, geisladrif og disklingadrif) og ytri(prentari, mús, lyklaborð)
