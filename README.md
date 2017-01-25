@@ -15,3 +15,11 @@ verjast því þegar unnið er með tölvubúnað?
 
 5. Hvað þarf að hafa í huga við val á spennugjöfum? 
 	Passa að það passi í kassan og passa að hann gefi frá sér nógu mikið rafmagn.
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir? 
+	1. Finna vandamálið 
+	2. Komast að kenningu
+	3. Prófa kenninguna 
+	4. Gera plan um hvernig þú ættlar að fara að 
+	5. Stað festa að kerfið og forritin virka rétt 
+	6. Gera skýrslu um allt sem þú gerðir 
