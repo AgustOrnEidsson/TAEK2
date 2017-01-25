@@ -23,3 +23,8 @@ verjast því þegar unnið er með tölvubúnað?
 	4. Gera plan um hvernig þú ættlar að fara að 
 	5. Stað festa að kerfið og forritin virka rétt 
 	6. Gera skýrslu um allt sem þú gerðir 
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+	Munurinn er að closed ended er þar sem svarið er bara já eða nei á meðan open ended er þar sem það er sagt meira en já og nei.
+	Ertu með góða kjælingu?
+	Hver eru specin þín?
